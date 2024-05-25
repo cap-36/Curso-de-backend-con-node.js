@@ -1,0 +1,3 @@
+- docker-compose up -d postgres //esto es iniciar el postgres en la api con docker
+- docker-compose ps //Esto es para ver que postgres esta iniciado en el docker
+- docker-compose down //Esto es para bajar el servicio de postgres de docker
